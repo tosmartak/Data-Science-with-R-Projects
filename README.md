@@ -1,2 +1,2 @@
-# Data-Science-with-R-Projects
-Data science projects done using R Programming Language
+# My Portfolio of Data Science Projects Done Using R
+Below is the list of all the projects I have done and their summary, using the R programming language. Each of the project is linked to its own respository for further details and deep dive into the content and the codes.
